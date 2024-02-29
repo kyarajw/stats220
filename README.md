@@ -1,1 +1,3 @@
-# stats220
+# Kia ora!
+
+My name is Kyara
