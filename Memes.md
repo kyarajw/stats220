@@ -1,3 +1,5 @@
+# Memes
+
 reject <- image_read('https://media.istockphoto.com/id/1356060337/photo/young-man-refusing-your-offer.jpg?s=612x612&w=0&k=20&c=Wx3t-aX5q3MjjzBhnwpK7-W16i-SRiDy75M_els_pYQ=') %>%
     image_scale(500)
 lazing <- image_annotate(image_blank(width = 500, height = 500, color = '#FFFFFF'), text = "Lazing\naround", color = '#000000', size = 80, gravity = 'center')
